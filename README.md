@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @ABHI-914
+- 👀 I’m interested in placement opportunities...
+- 🌱 I’m currently learning ...
+- 📫 How to reach me (ram321abhi@gmail.com)...
+
+<!---
+ABHI-914/ABHI-914 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
